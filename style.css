@@ -1,0 +1,41 @@
+.header {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    background-color: #191970;
+    padding: 15px
+}
+
+.city-name,
+.history {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+body {
+    background-image: url("./sky.jpg");
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 3px;
+    background-color: dodgerblue;
+}
+
+.right {
+    padding: 10px
+}
+
+.col {
+    background-color: dodgerblue;
+    margin: 5px;
+    padding: 10px
+}
+
+.forecast {
+    margin: auto;
+}
+
+.five-day {
+    margin-top: 10px;
+}
